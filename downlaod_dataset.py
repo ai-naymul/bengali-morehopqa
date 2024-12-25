@@ -10,7 +10,7 @@ class DatasetDownloader():
         try:
             file_path = hf_hub_download(
                 repo_id="alabnii/morehopqa",
-                filename="data/with_human_verification.json",
+                filename="data/with_human_verification.json", # download the human verified part of the dataset
                 repo_type="dataset",
                 token=self.token
             )
