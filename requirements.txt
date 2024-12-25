@@ -1,0 +1,4 @@
+datasets
+googletrans
+huggingface_hub
+tqdm

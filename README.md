@@ -1,0 +1,5 @@
+- downlaod the dataset, explore the fields
+- create a structure of how to pass those element into the translator
+- translate the content
+- save it into a speciic dataset format
+- comibing all the data push the dataset to huggingface
